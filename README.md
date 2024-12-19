@@ -1,6 +1,11 @@
 # calculadora_bloc_practica
 
 A new Flutter project.
+-------------------------------------------------------------------------------------------------------------------------
+Esta aplicacion se hizo con el fin de aprender y comprender el uso de Bloc en flutter, este codigo fuente puede ser utilizado
+para estudiar y aprender sobre Bloc.
+
+![image](https://github.com/user-attachments/assets/24e9f0f6-1897-4a98-aba8-9c67e28b6439)
 
 ## Getting Started
 
