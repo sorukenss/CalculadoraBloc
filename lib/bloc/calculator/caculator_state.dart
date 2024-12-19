@@ -12,7 +12,7 @@ class CaculatorState {
     this.secondNumber = '0',
     this.operation = '',
   });
-
+//copiar y pegar
   CaculatorState copyWith({
     String? mathResult,
     String? firstNumber,
